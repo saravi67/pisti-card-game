@@ -1,0 +1,19 @@
+{
+  "id": "pisti-card-game",
+  "title": "Pişti (Klasik & Eşli)",
+  "author": "Seref",
+  "version": "1.0.0",
+  "description": "Google Play'in en yüksek puanlı (4.6★) Pişti deneyiminden ilham alan PocketVibe el konsolu oyunu. Akıllı yapay zeka rakipler, Tekli (1v1) ve Eşli (2v2) modlar, 51/101/151 hedef puan seçenekleri ve 3D masa animasyonları.",
+  "genre": "Card Game",
+  "controls": {
+    "D-pad": "Kart Seç / Menüde Gezin",
+    "A": "Kartı Masaya At / Seçimi Onayla",
+    "B": "Geri / Menüyü Kapat",
+    "X": "Skor Tablosu",
+    "Y": "Pişti Kuralları & Puanlama",
+    "START": "Yeni Oyun / Menü",
+    "SELECT": "Oyun Ayarları (Hedef Puan & Hız)"
+  },
+  "responsive": true,
+  "screens": 2
+}
